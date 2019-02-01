@@ -14,7 +14,7 @@ files:
     type: "image/png"
   - path: "Licenses/LICENSE"
     type: "text/plain"
-  - path: "Tests/config.cfg"
+  - path: "Tests/config-cpe.cfg"
     type: "text/plain"
   - path: "Tests/runner.sh"
     type: "text/x-shellscript"
